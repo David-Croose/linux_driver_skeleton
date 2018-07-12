@@ -1,0 +1,1 @@
+obj-s += qin2440-serial.c
